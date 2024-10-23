@@ -1,0 +1,79 @@
+#messi {
+    position: relative;
+    position: center;
+    height: auto;
+    width: 100%;
+    border-radius: 30%;
+    border: 7px solid;
+    left: -2%;
+    align-items: center;
+    align-self: auto;
+    align-self: center;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+#titolo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    position: relative;
+    text-align: center;
+    /*  height: 50%;
+    width: 50%;
+    left: 32%;
+    right: 0;*/
+}
+
+#titolo :hover {
+    color: blue;
+}
+
+.p {
+    position: relative;
+    font-size: 100%;
+    margin: auto;
+}
+
+#p1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+
+body {
+    background-color: white;
+    width: 300px;
+    border: 5px solid #1c1a1a;
+    border-radius: 1%;
+    padding: 3%;
+}
+
+#divpadre {
+    background-color: rgb(168, 207, 222);
+    border-radius: 3%;
+}
+
+
+#p1:first-letter {
+    background-color: rgb(246, 255, 0);
+    font-size: 200%;
+    font-style: oblique;
+    color: black;
+}
+
+#p2 {
+    padding: 3%;
+}
+
+#p3 {
+    padding: 3%;
+}
+
+
+#div3 {
+    padding: 10%;
+}
+
+#Card {
+    padding: 10%;
+}
